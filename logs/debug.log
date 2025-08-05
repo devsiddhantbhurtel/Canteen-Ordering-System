@@ -1,0 +1,420 @@
+INFO 2025-03-22 08:26:16,826 views Sending Khalti config for environment: test 
+INFO 2025-03-22 08:26:16,865 views Sending Khalti config for environment: test 
+INFO 2025-03-22 08:28:07,535 views Sending Khalti config for environment: test 
+INFO 2025-03-22 08:28:48,053 views Sending Khalti config for environment: test 
+INFO 2025-03-22 08:28:48,060 views Sending Khalti config for environment: test 
+INFO 2025-03-22 08:31:30,519 views Using Khalti environment: test 
+INFO 2025-03-22 08:31:30,527 views Using Khalti environment: test 
+INFO 2025-03-22 08:32:04,158 views Using Khalti environment: test 
+INFO 2025-03-22 08:32:04,179 views Using Khalti environment: test 
+INFO 2025-03-22 08:33:40,841 views Using Khalti environment: test 
+INFO 2025-03-22 08:34:41,069 views Using Khalti environment: test 
+INFO 2025-03-22 08:34:41,084 views Using Khalti environment: test 
+INFO 2025-03-22 08:37:27,686 views Using Khalti environment: test 
+INFO 2025-03-22 08:37:27,694 views Using Khalti environment: test 
+INFO 2025-03-22 08:38:26,320 views Using Khalti environment: test 
+INFO 2025-03-22 08:39:41,365 views Using Khalti environment: test 
+INFO 2025-03-22 08:39:41,373 views Using Khalti environment: test 
+INFO 2025-03-22 08:41:03,715 views Using Khalti environment: test 
+INFO 2025-03-22 08:41:39,727 views Using Khalti environment: test 
+INFO 2025-03-22 08:41:39,728 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 08:41:39,728 views Sending config: {'publicKey': 'test_public_key_dc74e0fd57cb46cd93832aee0a390234', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 08:41:39,736 views Using Khalti environment: test 
+INFO 2025-03-22 08:41:39,736 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 08:41:39,736 views Sending config: {'publicKey': 'test_public_key_dc74e0fd57cb46cd93832aee0a390234', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 08:42:42,751 views Using Khalti environment: test 
+INFO 2025-03-22 08:42:42,751 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 08:42:42,751 views Sending config: {'publicKey': 'test_public_key_dc74e0fd57cb46cd93832aee0a390234', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 08:43:26,916 views Using Khalti environment: test 
+INFO 2025-03-22 08:43:26,917 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 08:43:26,917 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:19:52,122 views Using Khalti environment: test 
+INFO 2025-03-22 09:19:52,122 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:19:52,122 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:19:52,136 views Using Khalti environment: test 
+INFO 2025-03-22 09:19:52,137 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:19:52,137 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:20:51,536 views Using Khalti environment: test 
+INFO 2025-03-22 09:20:51,537 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:20:51,537 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:21:49,456 views Using Khalti environment: test 
+INFO 2025-03-22 09:21:49,457 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:21:49,457 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:21:49,464 views Using Khalti environment: test 
+INFO 2025-03-22 09:21:49,464 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:21:49,464 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:24:00,021 views Using Khalti environment: test 
+INFO 2025-03-22 09:24:00,021 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:24:00,021 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:26:33,971 views Using Khalti environment: test 
+INFO 2025-03-22 09:26:33,972 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:26:33,972 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:26:33,978 views Using Khalti environment: test 
+INFO 2025-03-22 09:26:33,978 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:26:33,979 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:27:40,947 views Using Khalti environment: test 
+INFO 2025-03-22 09:27:40,949 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:27:40,949 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:27:40,962 views Using Khalti environment: test 
+INFO 2025-03-22 09:27:40,962 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:27:40,962 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:59:05,293 views Using Khalti environment: test 
+INFO 2025-03-22 09:59:05,294 views Verify URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 09:59:05,294 views Sending config: {'secretKey': 'test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'environment': 'test ', 'verifyUrl': 'https://a.khalti.com/api/v2/epayment/initiate/', 'lookupUrl': 'https://a.khalti.com/api/v2/epayment/lookup/'}
+INFO 2025-03-22 09:59:49,147 views Sending Khalti config for environment: test 
+INFO 2025-03-22 09:59:49,155 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:00:03,228 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:00:03,232 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:01:03,522 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:01:03,540 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:01:32,681 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:02:00,162 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:02:00,177 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:02:52,949 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:02:52,955 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:03:14,806 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:07:23,363 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:07:23,369 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:10:31,694 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:10:31,699 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:10:53,509 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:11:30,734 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:11:30,750 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:12:54,071 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:13:52,715 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:13:52,726 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:17:42,132 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:19:02,621 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:19:02,627 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:19:03,228 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:19:03,250 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:21:34,648 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:21:34,667 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:22:47,536 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:22:47,561 views Sending Khalti config for environment: test 
+ERROR 2025-03-22 10:22:51,340 views Error in initiate_khalti_payment: 'UserProfile' object has no attribute 'phone'
+INFO 2025-03-22 10:24:51,720 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:24:51,737 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:24:58,611 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742639098", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:24:58,825 views Khalti response status: 401
+INFO 2025-03-22 10:24:58,826 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:24:58,826 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:26:16,081 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:26:49,472 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:26:49,477 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:26:52,420 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742639212", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:26:52,622 views Khalti response status: 401
+INFO 2025-03-22 10:26:52,622 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:26:52,622 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:26:55,612 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:26:55,616 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:26:58,634 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742639218", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:26:58,825 views Khalti response status: 401
+INFO 2025-03-22 10:26:58,825 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:26:58,826 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:27:00,611 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:27:00,616 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:27:07,350 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742639227", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:27:07,552 views Khalti response status: 401
+INFO 2025-03-22 10:27:07,552 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:27:07,553 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:29:17,032 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:29:17,176 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:29:20,769 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742639360", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:29:20,936 views Khalti response status: 401
+INFO 2025-03-22 10:29:20,936 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:29:20,937 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:29:23,125 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:29:23,130 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:29:49,216 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:29:49,230 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:29:52,743 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742639392", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:29:52,952 views Khalti response status: 401
+INFO 2025-03-22 10:29:52,953 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:29:52,953 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:29:54,338 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:29:54,353 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:30:22,180 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:30:22,205 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:30:24,585 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742639424", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:30:24,782 views Khalti response status: 401
+INFO 2025-03-22 10:30:24,782 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:30:24,782 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:30:27,731 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:30:27,742 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:32:10,690 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:36:18,215 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:36:18,219 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:38:38,847 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:38:38,866 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:43:59,903 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:46:05,350 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:46:05,358 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:46:08,032 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742640368", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:46:08,220 views Khalti response status: 401
+INFO 2025-03-22 10:46:08,221 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:46:08,221 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:47:40,862 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:48:55,095 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:48:55,104 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:48:57,886 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742640537", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:48:58,089 views Khalti response status: 401
+INFO 2025-03-22 10:48:58,090 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:48:58,090 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:49:47,936 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:50:43,221 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:50:43,229 views Sending Khalti config for environment: test 
+INFO 2025-03-22 10:50:45,706 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 10:50:45,707 views Request data: {'amount': 10000}
+INFO 2025-03-22 10:50:45,707 views Request headers: {'Content-Length': '16', 'Content-Type': 'application/json', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"macOS"', 'Authorization': 'Token f67ac58f0302911e436e35802cb831f712f3ec3f', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36', 'Accept': 'application/json, text/plain, */*', 'Sec-Ch-Ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"', 'Sec-Ch-Ua-Mobile': '?0', 'Origin': 'http://localhost:3000', 'Sec-Fetch-Site': 'cross-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-US,en;q=0.9'}
+INFO 2025-03-22 10:50:45,707 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742640645", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:50:45,709 views Making request to Khalti URL: https://khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 10:50:45,935 views Khalti response status: 401
+INFO 2025-03-22 10:50:45,935 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:50:45,936 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:52:46,950 views Sending Khalti config for environment: test
+INFO 2025-03-22 10:52:46,958 views Sending Khalti config for environment: test
+INFO 2025-03-22 10:52:50,389 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 10:52:50,390 views Request data: {'amount': 10000}
+INFO 2025-03-22 10:52:50,390 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742640770ff92c106", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:52:50,390 views Using headers: {'Authorization': 'key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 10:52:50,390 views Making request to Khalti URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 10:52:50,577 views Khalti response status: 401
+INFO 2025-03-22 10:52:50,578 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:52:50,578 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:53:14,080 views Sending Khalti config for environment: test
+INFO 2025-03-22 10:53:14,107 views Sending Khalti config for environment: test
+INFO 2025-03-22 10:53:16,697 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 10:53:16,698 views Request data: {'amount': 10000}
+INFO 2025-03-22 10:53:16,698 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER17426407963d200f75", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:53:16,698 views Using headers: {'Authorization': 'key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 10:53:16,698 views Making request to Khalti URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 10:53:16,840 views Khalti response status: 401
+INFO 2025-03-22 10:53:16,840 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:53:16,840 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 10:56:36,040 views Sending Khalti config for environment: test
+INFO 2025-03-22 10:56:36,050 views Sending Khalti config for environment: test
+INFO 2025-03-22 10:56:39,409 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 10:56:39,410 views Request data: {'amount': 10000}
+INFO 2025-03-22 10:56:39,410 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742640999f049b1f2", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 10:56:39,410 views Using headers: {'Authorization': 'key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 10:56:39,410 views Making request to Khalti URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 10:56:39,594 views Khalti response status: 401
+INFO 2025-03-22 10:56:39,594 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 10:56:39,594 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 11:00:46,510 views Sending Khalti config for environment: test 
+INFO 2025-03-22 11:00:46,528 views Sending Khalti config for environment: test 
+INFO 2025-03-22 11:03:28,968 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:04:34,048 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:04:34,062 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:07:55,194 views Sending Khalti config for environment: test
+ERROR 2025-03-22 11:07:55,195 views Error in get_khalti_config: 'Settings' object has no attribute 'KHALTI_MOCK_URL'
+INFO 2025-03-22 11:10:05,023 views Sending Khalti config for environment: test
+ERROR 2025-03-22 11:10:05,025 views Error in get_khalti_config: 'Settings' object has no attribute 'KHALTI_MOCK_URL'
+INFO 2025-03-22 11:10:05,042 views Sending Khalti config for environment: test
+ERROR 2025-03-22 11:10:05,042 views Error in get_khalti_config: 'Settings' object has no attribute 'KHALTI_MOCK_URL'
+INFO 2025-03-22 11:12:47,127 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:12:47,134 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:19:12,456 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:19:12,465 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:19:17,288 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 11:19:17,288 views Request data: {'amount': 20000}
+INFO 2025-03-22 11:19:17,288 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 20000, "purchase_order_id": "ORDER17426423577295ef93", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 11:19:17,288 views Using headers: {'Authorization': 'key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 11:19:17,288 views Making request to Khalti URL: https://dev.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 11:19:17,457 views Khalti response status: 401
+INFO 2025-03-22 11:19:17,457 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 11:19:17,457 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 11:25:18,266 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:25:18,276 views Sending Khalti config for environment: test
+INFO 2025-03-22 11:25:23,066 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 11:25:23,067 views Request data: {'amount': 20000}
+INFO 2025-03-22 11:25:23,067 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 20000, "purchase_order_id": "ORDER174264272363fb26d0", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 11:25:23,067 views Using headers: {'Authorization': 'Key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 11:25:23,067 views Making request to Khalti URL: https://dev.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 11:25:23,224 views Khalti response status: 401
+INFO 2025-03-22 11:25:23,224 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 11:25:23,224 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 12:20:42,027 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 12:20:42,029 views Request data: {'amount': 20000}
+INFO 2025-03-22 12:20:42,030 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 20000, "purchase_order_id": "ORDER174264604248be7917", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:20:42,030 views Using headers: {'Authorization': 'Key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 12:20:42,030 views Making request to Khalti URL: https://dev.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 12:20:42,190 views Khalti response status: 401
+INFO 2025-03-22 12:20:42,190 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 12:20:42,190 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 12:23:49,491 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:23:49,506 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:23:54,038 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 12:23:54,039 views Request data: {'amount': 20000}
+INFO 2025-03-22 12:23:54,039 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 20000, "purchase_order_id": "ORDER17426462340a17ca67", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:23:54,039 views Using headers: {'Authorization': 'Key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 12:23:54,039 views Making request to Khalti URL: https://dev.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 12:23:54,209 views Khalti response status: 401
+INFO 2025-03-22 12:23:54,209 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 12:23:54,209 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 12:27:05,642 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:27:05,653 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:27:08,385 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 12:27:08,389 views Request data: {'amount': 20000}
+INFO 2025-03-22 12:27:08,390 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 20000, "purchase_order_id": "ORDER1742646428e6a16e38", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:27:08,390 views Using headers: {'Authorization': 'Bearer test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 12:27:08,390 views Making request to Khalti URL: https://dev.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 12:27:08,811 views Khalti response status: 401
+INFO 2025-03-22 12:27:08,811 views Khalti response: {"detail":"Authentication credentials were not provided.","status_code":401}
+ERROR 2025-03-22 12:27:08,811 views Khalti initiation failed: {"detail":"Authentication credentials were not provided.","status_code":401}
+INFO 2025-03-22 12:27:44,776 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:27:44,865 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:27:47,963 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:27:47,973 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:27:50,520 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 12:27:50,521 views Request data: {'amount': 20000}
+INFO 2025-03-22 12:27:50,522 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 20000, "purchase_order_id": "ORDER1742646470bdf84439", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:27:50,522 views Using headers: {'Authorization': 'Bearer test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 12:27:50,522 views Making request to Khalti URL: https://dev.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 12:27:50,723 views Khalti response status: 401
+INFO 2025-03-22 12:27:50,723 views Khalti response: {"detail":"Authentication credentials were not provided.","status_code":401}
+ERROR 2025-03-22 12:27:50,723 views Khalti initiation failed: {"detail":"Authentication credentials were not provided.","status_code":401}
+INFO 2025-03-22 12:31:36,397 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:31:36,472 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:31:40,649 views Payment initiation request from user: Yubraj
+INFO 2025-03-22 12:31:40,651 views Request data: {'amount': 20000}
+INFO 2025-03-22 12:31:40,651 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 20000, "purchase_order_id": "ORDER1742646700916035ef", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:31:40,651 views Using headers: {'Authorization': 'Key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 12:31:40,651 views Making request to Khalti URL: https://khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 12:31:40,873 views Khalti response status: 401
+INFO 2025-03-22 12:31:40,873 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 12:31:40,873 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 12:36:20,934 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:36:20,964 views Sending Khalti config for environment: test
+INFO 2025-03-22 12:36:27,681 views Payment initiation request from user: BishalBogati
+INFO 2025-03-22 12:36:27,682 views Request data: {'amount': 10000}
+INFO 2025-03-22 12:36:27,683 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742646987600567a3", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:36:27,683 views Using headers: {'Authorization': 'Key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 12:36:27,683 views Making request to Khalti URL: https://dev.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 12:36:28,162 views Khalti response status: 401
+INFO 2025-03-22 12:36:28,163 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 12:36:28,163 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 12:49:11,753 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742647751e5537341", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+ERROR 2025-03-22 12:49:11,755 views Error in initiate_khalti_payment: 'Settings' object has no attribute 'KHALTI_INITIATE_URL'
+Traceback (most recent call last):
+  File "/Users/bishalbogati/canteen/canteen_app/views.py", line 460, in initiate_khalti_payment
+    settings.KHALTI_INITIATE_URL,
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bishalbogati/anaconda3/lib/python3.11/site-packages/django/conf/__init__.py", line 83, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'KHALTI_INITIATE_URL'
+INFO 2025-03-22 12:51:00,023 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742647860ed5455b5", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:51:00,170 views Khalti response status: 401
+INFO 2025-03-22 12:51:00,170 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 12:51:00,170 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 12:57:44,040 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742648264e645f116", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:57:44,042 views Using headers: {'Authorization': 'Bearer test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 12:57:44,251 views Khalti response status: 401
+INFO 2025-03-22 12:57:44,252 views Khalti response: {"detail":"Authentication credentials were not provided.","status_code":401}
+ERROR 2025-03-22 12:57:44,252 views Khalti initiation failed: {"detail":"Authentication credentials were not provided.","status_code":401}
+INFO 2025-03-22 12:58:57,748 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER17426483376f7a6641", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 12:58:57,751 views Using headers: {'Authorization': 'Bearer test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 12:58:57,947 views Khalti response status: 401
+INFO 2025-03-22 12:58:57,947 views Khalti response: {"detail":"Authentication credentials were not provided.","status_code":401}
+ERROR 2025-03-22 12:58:57,947 views Khalti initiation failed: {"detail":"Authentication credentials were not provided.","status_code":401}
+INFO 2025-03-22 13:03:21,275 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742648601d0be7977", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 13:03:21,276 views Using headers: {'Authorization': 'Key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 13:03:21,438 views Khalti response status: 401
+INFO 2025-03-22 13:03:21,438 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 13:03:21,438 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 13:06:29,004 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER17426487894d34827e", "purchase_order_name": "Canteen Order", "customer_info": {"name": "BishalBogati", "email": "blbg1046@gmail.com", "phone": ""}}
+INFO 2025-03-22 13:06:29,005 views Using headers: {'Authorization': 'Key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 13:06:29,005 views Using secret key: test_secre...
+INFO 2025-03-22 13:06:29,174 views Khalti response status: 401
+INFO 2025-03-22 13:06:29,174 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 13:06:29,174 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 14:50:09,892 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER174265500905fa31a1", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 14:50:09,894 views Using headers: {'Authorization': 'Key test_secret_key_bcb4ab9fa0d443bb8b01b2a2b9e8cd9f', 'Content-Type': 'application/json'}
+INFO 2025-03-22 14:50:09,895 views Using secret key: test_secre...
+INFO 2025-03-22 14:50:10,087 views Khalti response status: 400
+INFO 2025-03-22 14:50:10,088 views Khalti response: {"public_key":["This field is required."],"mobile":["This field is required."],"product_identity":["This field is required."],"product_name":["This field is required."],"transaction_pin":["This field is required."],"error_key":"validation_error"}
+ERROR 2025-03-22 14:50:10,088 views Khalti initiation failed: {"public_key":["This field is required."],"mobile":["This field is required."],"product_identity":["This field is required."],"product_name":["This field is required."],"transaction_pin":["This field is required."],"error_key":"validation_error"}
+INFO 2025-03-22 14:58:27,824 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742655507a95f733f", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 14:58:28,023 views Khalti response status: 401
+INFO 2025-03-22 14:58:28,023 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 14:58:28,024 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 15:01:15,248 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742655675274c63d9", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 15:01:15,434 views Khalti response status: 401
+INFO 2025-03-22 15:01:15,434 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 15:01:15,434 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 15:04:10,013 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER17426558502a08ff97", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 15:04:10,016 views Using Khalti secret key: test_...
+INFO 2025-03-22 15:04:10,214 views Khalti response status: 401
+INFO 2025-03-22 15:04:10,214 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 15:04:10,215 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 15:06:37,976 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER17426559979d446392", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 15:06:37,981 views Using Khalti secret key: test_...
+INFO 2025-03-22 15:06:38,168 views Khalti response status: 401
+INFO 2025-03-22 15:06:38,168 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 15:06:38,168 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 15:11:27,302 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742656287fd540bc1", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 15:11:27,302 views Using Khalti secret key: test_...
+INFO 2025-03-22 15:11:27,464 views Khalti response status: 401
+INFO 2025-03-22 15:11:27,464 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 15:11:27,464 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 16:30:11,878 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000 /payment/verify", "website_url": "http://localhost:3000 ", "amount": 10000, "purchase_order_id": "ORDER17426610115f439fb5", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 16:30:11,879 views Using Khalti secret key: test_...
+INFO 2025-03-22 16:30:12,028 views Khalti response status: 401
+INFO 2025-03-22 16:30:12,028 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 16:30:12,028 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 16:34:44,493 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000 /payment/verify", "website_url": "http://localhost:3000 ", "amount": 10000, "purchase_order_id": "ORDER1742661284c1e0c44c", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 16:34:44,493 views Using Khalti secret key: test_...
+INFO 2025-03-22 16:34:44,641 views Khalti response status: 401
+INFO 2025-03-22 16:34:44,641 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 16:34:44,641 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 16:35:30,112 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000 /payment/verify", "website_url": "http://localhost:3000 ", "amount": 10000, "purchase_order_id": "ORDER1742661330d5029f13", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 16:35:30,113 views Using Khalti secret key: test_...
+INFO 2025-03-22 16:35:30,266 views Khalti response status: 401
+INFO 2025-03-22 16:35:30,266 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 16:35:30,266 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 17:03:39,054 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000 /payment/verify", "website_url": "http://localhost:3000 ", "amount": 10000, "purchase_order_id": "ORDER1742663019bcc09bd5", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 17:03:39,055 views Using Khalti secret key: test_...
+ERROR 2025-03-22 17:03:39,055 views Error in initiate_khalti_payment: 'Settings' object has no attribute 'KHALTI_INITIATE_URL'
+Traceback (most recent call last):
+  File "/Users/bishalbogati/canteen/canteen_app/views.py", line 450, in initiate_khalti_payment
+    settings.KHALTI_INITIATE_URL,
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bishalbogati/anaconda3/lib/python3.11/site-packages/django/conf/__init__.py", line 83, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'KHALTI_INITIATE_URL'
+INFO 2025-03-22 17:06:19,137 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742663179ad52c454", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 17:06:19,139 views Using Khalti secret key: test_...
+INFO 2025-03-22 17:06:19,318 views Khalti response status: 401
+INFO 2025-03-22 17:06:19,318 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 17:06:19,318 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 17:10:06,237 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER174266340625375e76", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 17:10:06,238 views Using Khalti secret key: test_...
+INFO 2025-03-22 17:10:06,474 views Khalti response status: 401
+INFO 2025-03-22 17:10:06,474 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 17:10:06,474 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 17:20:39,565 views Error in initiate_khalti_payment: name 'localStorage' is not defined
+Traceback (most recent call last):
+  File "/Users/bishalbogati/canteen/canteen_app/views.py", line 392, in initiate_khalti_payment
+    token = localStorage.getItem('token')  # Ensure this is valid in your front end
+            ^^^^^^^^^^^^
+NameError: name 'localStorage' is not defined
+INFO 2025-03-22 17:23:17,053 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER1742664197f61eb1d2", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 17:23:17,055 views Using Khalti secret key: test_...
+INFO 2025-03-22 17:23:17,231 views Khalti response status: 401
+INFO 2025-03-22 17:23:17,231 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 17:23:17,231 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
+INFO 2025-03-22 17:28:25,122 views Using Khalti configuration:
+INFO 2025-03-22 17:28:25,123 views Public Key: test_publi...
+INFO 2025-03-22 17:28:25,123 views Secret Key: test_secre...
+INFO 2025-03-22 17:28:25,123 views Initiate URL: https://a.khalti.com/api/v2/epayment/initiate/
+INFO 2025-03-22 17:28:25,123 views Return URL: http://localhost:3000/payment/verify
+INFO 2025-03-22 17:28:25,123 views Website URL: http://localhost:3000
+INFO 2025-03-22 17:28:25,123 views Initiating Khalti payment with payload: {"return_url": "http://localhost:3000/payment/verify", "website_url": "http://localhost:3000", "amount": 10000, "purchase_order_id": "ORDER174266450507043f67", "purchase_order_name": "Canteen Order", "customer_info": {"name": "Yubraj", "email": "Yub@gmail.com", "phone": ""}}
+INFO 2025-03-22 17:28:25,123 views Using headers: {"Authorization": "Key test_secret_key_0b9a35e1bdd448e9b2d8", "Content-Type": "application/json"}
+INFO 2025-03-22 17:28:25,365 views Khalti response status: 401
+INFO 2025-03-22 17:28:25,365 views Khalti response headers: {'Date': 'Sat, 22 Mar 2025 17:28:25 GMT', 'Content-Type': 'application/json', 'Content-Length': '45', 'Connection': 'keep-alive', 'WWW-Authenticate': 'Key', 'Allow': 'POST, OPTIONS', 'Vary': 'Accept-Language, Cookie, Origin', 'Content-Language': 'en-us', 'X-Frame-Options': 'SAMEORIGIN', 'x-content-type-options': 'nosniff', 'x-xss-protection': '1; mode=block', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'Set-Cookie': 'sessioncookie=!OSbASpNVAz+sJv2di8GHrcsPaIwS0ZrKDnUVZy4n4vaQsSQNWHACBUYdaweZriqKnO7zh2CoIbrENg==; path=/; Httponly; Secure'}
+INFO 2025-03-22 17:28:25,365 views Khalti response: {"detail":"Invalid token.","status_code":401}
+ERROR 2025-03-22 17:28:25,365 views Khalti initiation failed: {"detail":"Invalid token.","status_code":401}
